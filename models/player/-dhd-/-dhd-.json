@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 43,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 43,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 43,
 			"name": "",
 			"type": 0
 		}
@@ -20,20 +20,15 @@
 		{
 			"models": [
 				{
-					"name": "Punisher/Punisher",
-					"polys": 766,
-					"verts": 386
-				}, 
-				{
-					"name": "Punisher/Punisher",
-					"polys": 766,
-					"verts": 386
+					"name": "../dmatch/lowcount/breach/breach",
+					"polys": 578,
+					"verts": 294
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": false,
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -68,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098061260,
+	"date": 1168303014,
 	"events": [
 		{
 			"event": 2001,
@@ -177,12 +172,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "e43a3ed59df56af1b32f62c2409534c3",
+	"md5": "f8793a8ef630a9d8160434451edadd60",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "i:/hlsdk/playermodels/player/Punisher/Punisher.mdl",
+	"name": "valve/models/player/breach/breach.mdl",
 	"preview": false,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -571,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 320512,
+	"size": 355940,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -654,20 +649,84 @@
 			"parent": 18
 		}, 
 		{
+			"name": "Dummy08",
+			"parent": 19
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 20
+		}, 
+		{
+			"name": "Bone03",
+			"parent": 21
+		}, 
+		{
+			"name": "Dummy05",
+			"parent": 19
+		}, 
+		{
+			"name": "Dummy03",
+			"parent": 19
+		}, 
+		{
+			"name": "Dummy09",
+			"parent": 19
+		}, 
+		{
+			"name": "Bone11",
+			"parent": 25
+		}, 
+		{
+			"name": "Dummy10",
+			"parent": 19
+		}, 
+		{
+			"name": "Bone13",
+			"parent": 27
+		}, 
+		{
+			"name": "Bone14",
+			"parent": 28
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 18
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 20
+			"parent": 30
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 21
+			"parent": 31
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 22
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 38
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -675,15 +734,39 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 40
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 41
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
+			"parent": 42
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 43
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 44
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 45
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 43
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 47
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 48
 		}
 	],
 	"skins": 1,
@@ -692,8 +775,14 @@
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "punisher.BMP",
+			"name": "DM_base.bmp",
 			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "DM_face.bmp",
+			"width": 128
 		}
 	],
 	"version": 10

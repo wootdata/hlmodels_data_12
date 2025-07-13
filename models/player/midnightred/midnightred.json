@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 33,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 33,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 33,
 			"name": "",
 			"type": 0
 		}
@@ -20,14 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "Punisher/Punisher",
-					"polys": 766,
-					"verts": 386
-				}, 
-				{
-					"name": "Punisher/Punisher",
-					"polys": 766,
-					"verts": 386
+					"name": "MidnightKiller",
+					"polys": 544,
+					"verts": 289
 				}
 			],
 			"name": "body"
@@ -68,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098061260,
+	"date": 1098058860,
 	"events": [
 		{
 			"event": 2001,
@@ -177,10 +172,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "e43a3ed59df56af1b32f62c2409534c3",
+	"md5": "979099904f29f7597447566f80f1b692",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "i:/hlsdk/playermodels/player/Punisher/Punisher.mdl",
+	"name": "C:\\Modelbin\\shockwave\\MidnightKiller.mdl",
 	"preview": false,
 	"readme": true,
 	"seq_groups": "1",
@@ -571,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 320512,
+	"size": 293940,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -670,20 +665,68 @@
 			"parent": 22
 		}, 
 		{
+			"name": "Bip01 L Finger0",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 28
+		}, 
+		{
 			"name": "Bip01 R Arm",
 			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 30
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 31
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 38
 		}
 	],
 	"skins": 1,
@@ -691,9 +734,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "punisher.BMP",
-			"width": 256
+			"height": 156,
+			"name": "MAP1.bmp",
+			"width": 200
+		}, 
+		{
+			"flags": 0,
+			"height": 170,
+			"name": "MAP2.bmp",
+			"width": 48
 		}
 	],
 	"version": 10
