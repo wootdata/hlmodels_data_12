@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1563640686,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f3da4871442c57824fb5125eb692cc26",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\models\\Punisher\\test.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 29,
@@ -70,6 +71,7 @@
 			"type": 8
 		}
 	],
+	"date": 1088612140,
 	"events": [
 		{
 			"event": 2001,
@@ -179,7 +181,11 @@
 	],
 	"id": 1414743113,
 	"md5": "46d1f0501bb8ec22af81dcf808a62cf9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "freeman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

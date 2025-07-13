@@ -248,6 +248,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -282,6 +283,7 @@
 			"type": 8
 		}
 	],
+	"date": 1622978399,
 	"events": [
 		{
 			"event": 2001,
@@ -391,7 +393,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a2515a5c1927b56aa4778c1ff4f0a69a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\NDSX\\+En Proceso\\Chen - Arknights\\CHEN MAO\\HL\\AChen.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 956082982,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "97ccc01a06cc8beed71af0f3fc8fbe37",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\SPIELE\\Half-Life2\\valve\\models\\player\\HoP_skull\\HoP_skull.mdl[",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
