@@ -175,6 +175,7 @@
 	"md5": "2ded66ee61afaa5900422f1d6745c123",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/pheonix/pheonix.mdl",
 	"preview": false,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "730c6c162816323aca54154bbc5e403e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/gumby/gumby.mdl",
 	"preview": true,
 	"readme": false,

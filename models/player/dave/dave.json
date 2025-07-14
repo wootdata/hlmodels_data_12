@@ -175,6 +175,7 @@
 	"md5": "e99ef9d81d001b0cd836af6ee3fc08f0",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Bubble/Bubble.mdl",
 	"preview": true,
 	"readme": false,

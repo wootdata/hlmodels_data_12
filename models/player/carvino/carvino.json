@@ -175,6 +175,7 @@
 	"md5": "8761d8647c44f10619a9c39e0773e6a5",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve\\models\\player\\carvino\\carvino.mdl",
 	"preview": true,
 	"readme": false,

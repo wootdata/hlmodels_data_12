@@ -175,6 +175,7 @@
 	"md5": "f8793a8ef630a9d8160434451edadd60",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/breach/breach.mdl",
 	"preview": false,
 	"readme": false,

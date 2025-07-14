@@ -175,6 +175,7 @@
 	"md5": "ff110b4bb7013e5e8d748034b322be43",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Optimus/Optimus.mdl",
 	"preview": false,
 	"readme": false,

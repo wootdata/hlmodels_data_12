@@ -175,6 +175,7 @@
 	"md5": "5f30ecac3d7c4dc2ea71b1bed4207e5e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Jesus/Jesus.mdl",
 	"preview": true,
 	"readme": false,

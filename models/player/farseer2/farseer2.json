@@ -175,6 +175,7 @@
 	"md5": "0f4f982276bc5f2a3b0b07e51189337a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/farseer/farseer.mdl",
 	"preview": true,
 	"readme": false,

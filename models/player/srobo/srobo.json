@@ -180,6 +180,7 @@
 	"md5": "8dd26a3c67263fcb7b01ecab2e5a4cdd",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/robo/robo.mdl",
 	"preview": true,
 	"readme": false,

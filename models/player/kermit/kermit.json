@@ -175,6 +175,7 @@
 	"md5": "c4805e9b15cddf13c02185d2d7e13501",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Kermit/Kermit.mdl",
 	"preview": true,
 	"readme": false,
