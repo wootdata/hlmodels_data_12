@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 33,
+			"bone": 45,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 33,
+			"bone": 45,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 33,
+			"bone": 45,
 			"name": "",
 			"type": 0
 		}
@@ -20,18 +20,18 @@
 		{
 			"models": [
 				{
-					"name": "bert_ref",
-					"polys": 754,
-					"verts": 400
+					"name": "selene",
+					"polys": 3641,
+					"verts": 1766
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
-			"bone": 14,
+			"bone": 28,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -39,7 +39,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 15,
+			"bone": 29,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -47,7 +47,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 16,
+			"bone": 30,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -55,7 +55,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 17,
+			"bone": 31,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1563148724,
+	"date": 1752468217,
 	"events": [
 		{
 			"event": 2001,
@@ -172,11 +172,11 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "219517d5beead9a8a95962ee6a89f5e0",
+	"md5": "e4eb2f8df730857081848f62d4321860",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\Program Files\\bertfile\\bert.mdl",
-	"preview": true,
+	"name": "selene.mdl",
+	"preview": false,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
@@ -566,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 390032,
+	"size": 969796,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -589,40 +589,96 @@
 			"parent": 3
 		}, 
 		{
-			"name": "Bip01 L Toe0",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 L Toe01",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Toe02",
-			"parent": 6
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 8
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "coat",
+			"parent": 1
+		}, 
+		{
+			"name": "coat1",
+			"parent": 8
+		}, 
+		{
+			"name": "coat2",
 			"parent": 9
 		}, 
 		{
-			"name": "Bip01 R Toe0",
+			"name": "coat3",
 			"parent": 10
 		}, 
 		{
-			"name": "Bip01 R Toe01",
-			"parent": 11
+			"name": "coat4",
+			"parent": 1
 		}, 
 		{
-			"name": "Bip01 R Toe02",
+			"name": "coat5",
 			"parent": 12
+		}, 
+		{
+			"name": "coat6",
+			"parent": 13
+		}, 
+		{
+			"name": "coat7",
+			"parent": 14
+		}, 
+		{
+			"name": "coat8",
+			"parent": 1
+		}, 
+		{
+			"name": "coat9",
+			"parent": 16
+		}, 
+		{
+			"name": "coat10",
+			"parent": 17
+		}, 
+		{
+			"name": "coat11",
+			"parent": 18
+		}, 
+		{
+			"name": "coat12",
+			"parent": 1
+		}, 
+		{
+			"name": "coat13",
+			"parent": 20
+		}, 
+		{
+			"name": "coat14",
+			"parent": 21
+		}, 
+		{
+			"name": "coat15",
+			"parent": 22
+		}, 
+		{
+			"name": "coat16",
+			"parent": 1
+		}, 
+		{
+			"name": "coat17",
+			"parent": 24
+		}, 
+		{
+			"name": "coat18",
+			"parent": 25
+		}, 
+		{
+			"name": "coat19",
+			"parent": 26
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -630,103 +686,79 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 L Finger12",
 			"parent": 28
 		}, 
 		{
-			"name": "Bip01 R Arm",
-			"parent": 18
+			"name": "Bip01 Spine2",
+			"parent": 29
 		}, 
 		{
-			"name": "Bip01 R Arm1",
+			"name": "Bip01 Spine3",
 			"parent": 30
 		}, 
 		{
-			"name": "Bip01 R Arm2",
+			"name": "Bip01 Neck",
 			"parent": 31
 		}, 
 		{
-			"name": "Bip01 R Hand",
+			"name": "Bip01 Head",
 			"parent": 32
 		}, 
 		{
-			"name": "Bip01 R Finger0",
+			"name": "Joint57",
 			"parent": 33
 		}, 
 		{
-			"name": "Bip01 R Finger01",
-			"parent": 34
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 35
-		}, 
-		{
-			"name": "Bip01 R Finger1",
+			"name": "Joint58",
 			"parent": 33
 		}, 
 		{
-			"name": "Bip01 R Finger11",
-			"parent": 37
+			"name": "Joint59",
+			"parent": 33
 		}, 
 		{
-			"name": "Bip01 R Finger12",
+			"name": "Joint60",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 L Arm1",
 			"parent": 38
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 39
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 40
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 42
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 43
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 44
+		}, 
+		{
+			"name": "Joint55",
+			"parent": 31
+		}, 
+		{
+			"name": "Joint56",
+			"parent": 31
 		}
 	],
 	"skins": 1,
@@ -734,15 +766,45 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 327,
-			"name": "Remap0_000_007_223.bmp",
-			"width": 200
+			"height": 67,
+			"name": "teeth.bmp",
+			"width": 228
 		}, 
 		{
 			"flags": 0,
-			"height": 327,
-			"name": "skin3.bmp",
-			"width": 200
+			"height": 80,
+			"name": "hand.bmp",
+			"width": 144
+		}, 
+		{
+			"flags": 0,
+			"height": 56,
+			"name": "eyeball.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 185,
+			"name": "beckinsale4.bmp",
+			"width": 260
+		}, 
+		{
+			"flags": 0,
+			"height": 265,
+			"name": "face4.bmp",
+			"width": 240
+		}, 
+		{
+			"flags": 0,
+			"height": 509,
+			"name": "BODYMESH2.bmp",
+			"width": 436
+		}, 
+		{
+			"flags": 0,
+			"height": 675,
+			"name": "coat_2.bmp",
+			"width": 388
 		}
 	],
 	"version": 10

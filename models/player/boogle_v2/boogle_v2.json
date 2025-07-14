@@ -177,7 +177,7 @@
 	"metahook_ragdoll": false,
 	"name": "D:\\models\\boogle\\Boogle.mdl",
 	"preview": true,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
