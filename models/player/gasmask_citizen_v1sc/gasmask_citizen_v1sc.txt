@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gasmask_citizen
+Source Model Hash : e93057ee19c6cfe90b7566d627883b16
+Source Model Date : 1660239467 (2022/08/11)
+
+Ported Model Name : gasmask_citizen_v1sc
+Ported Model Hash : c347142d66c64014c1474a3ae8114679
+Ported Model Date : 1752491673 (2025/07/14)

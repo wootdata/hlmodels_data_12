@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rvny2k
+Source Model Hash : c88feec89481e4011cabb20a2f9acd7a
+Source Model Date : 1591122619 (2020/06/02)
+
+Ported Model Name : rvny2k_v1sc
+Ported Model Hash : e776d0f345fc3b02bbd5e02a9f3a1a0b
+Ported Model Date : 1752492228 (2025/07/14)

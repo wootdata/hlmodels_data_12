@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darkydude_v2
+Source Model Hash : 3f28e52c3f446dccc2d410f7270b2e34
+Source Model Date : 1583006092 (2020/02/29)
+
+Ported Model Name : darkydude_v2sc
+Ported Model Hash : ec1b47395ae6a70b8af5b55e700b7afe
+Ported Model Date : 1752491580 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csurban
+Source Model Hash : d64510c65fb8a1f7767a6e472bc7799f
+Source Model Date : 1314714378 (2011/08/30)
+
+Ported Model Name : csurban_v1sc
+Ported Model Hash : 0d4535ded68d174459191182f12f3d2c
+Ported Model Date : 1752491559 (2025/07/14)

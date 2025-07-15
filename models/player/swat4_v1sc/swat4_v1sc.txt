@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : swat4
+Source Model Hash : bed6759c5ff450732309de6d3b5ce9a6
+Source Model Date : 1270020181 (2010/03/31)
+
+Ported Model Name : swat4_v1sc
+Ported Model Hash : c714050a638c1b468e72f224765a6dcf
+Ported Model Date : 1752492354 (2025/07/14)

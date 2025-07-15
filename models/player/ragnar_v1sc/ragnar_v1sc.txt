@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ragnar
+Source Model Hash : d76508b1b95e18f2d02b4967ecc3bd18
+Source Model Date : 1591054858 (2020/06/01)
+
+Ported Model Name : ragnar_v1sc
+Ported Model Hash : 2d89f624d082fcbb8e82771eabc9a423
+Ported Model Date : 1752492184 (2025/07/14)

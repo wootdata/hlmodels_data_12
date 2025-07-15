@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : danbo
+Source Model Hash : a3cc0fb0149c62b718ab33811e4f222b
+Source Model Date : 1376046856 (2013/08/09)
+
+Ported Model Name : danbo_v1sc
+Ported Model Hash : 75bfe952e347183ca0038f6061b0985b
+Ported Model Date : 1752491576 (2025/07/14)

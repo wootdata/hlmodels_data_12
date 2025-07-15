@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : homero
+Source Model Hash : 80aa6277d4c4a9683baed665e9ff3724
+Source Model Date : 1551669783 (2019/03/03)
+
+Ported Model Name : homero_v1sc
+Ported Model Hash : 52eb4b7a441cb23a8a3b02b521a7b1ec
+Ported Model Date : 1752491827 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_kukishinobu_dark_v2
+Source Model Hash : 0472bf0ad02d133c75d76c5369e2a822
+Source Model Date : 1701344401 (2023/11/30)
+
+Ported Model Name : gi_kuki_dark_v2sc
+Ported Model Hash : 7ebfd95d1b8c4ca82db205892b5515d3
+Ported Model Date : 1752491717 (2025/07/14)

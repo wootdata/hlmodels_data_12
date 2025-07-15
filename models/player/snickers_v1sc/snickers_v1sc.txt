@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : snickers
+Source Model Hash : 32dd41f4f3a3ab941e0950e3bc53dcf7
+Source Model Date : 1590448444 (2020/05/25)
+
+Ported Model Name : snickers_v1sc
+Ported Model Hash : 90338de5f1b644c5ba485cf19a7a3201
+Ported Model Date : 1752492285 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : axisrecon
+Source Model Hash : cf825c48a21e4253fde4662e4fbdcadb
+Source Model Date : 1264599365 (2010/01/27)
+
+Ported Model Name : axisrecon_v1sc
+Ported Model Hash : fc4c48d15cf08b6e24e3176b34c96f15
+Ported Model Date : 1752491392 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_babewire
+Source Model Hash : 3d322c3e650152eeacdc94f805e83858
+Source Model Date : 1700903669 (2023/11/25)
+
+Ported Model Name : ahl_babewire_v1sc
+Ported Model Hash : 807c6811aff2ce31af3397ce7f1ab657
+Ported Model Date : 1752491340 (2025/07/14)

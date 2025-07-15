@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re2_umbrella_soldier
+Source Model Hash : 78e6a29319a13940d3c1f34d212cd1d0
+Source Model Date : 1236224768 (2009/03/04)
+
+Ported Model Name : re2_umbrella_gi_v1sc
+Ported Model Hash : ed9b8d1ab76a5ae89dd21f51b64a0679
+Ported Model Date : 1752492191 (2025/07/14)

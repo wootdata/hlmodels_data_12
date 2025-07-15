@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : withered_chica
+Source Model Hash : af64ac003df7a7dbafbbb22db3ee76be
+Source Model Date : 1442324446 (2015/09/15)
+
+Ported Model Name : withered_chica_v1sc
+Ported Model Hash : 77c33ab5079861401e951baa05a74bfe
+Ported Model Date : 1752492510 (2025/07/14)

@@ -1,0 +1,35 @@
+Skeleton
+
+This is a skin thats a bit evil, a perfect fow to
+the space ghost skin I created eariler. It was made using
+Photoimpact, The skins.zip file, for a source. and compiler
+and mdlviewer for viewing, (can't get HL to run here at work :)
+If you enjoy it let me know. Im working on new skins all the time.
+Hopefully this won't be the last on the net.
+
+To install create a directory called SKELETON  copy these files into it.
+once installed it can be picked from the multiplayer options.
+
+Future skins will include Paintball, varations of the Suits, and 
+probably some newer Robo skins. as soon As I get around to it.
+
+
+this is freeware. But if you want it on your cd. I just want a copy of the CD.
+
+Email me:
+Darkwolfdkk@hotmail.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : skeleton1
+Source Model Hash : 63cc11d5149680ee49ff3a8c939fc58a
+Source Model Date : 1591222376 (2020/06/03)
+
+Ported Model Name : skeleton1_v1sc
+Ported Model Hash : 8e1a7ae0e4f305ad4144ff5c2a86feb2
+Ported Model Date : 1752492278 (2025/07/14)

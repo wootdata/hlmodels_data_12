@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_succ_captain_lao_v2
+Source Model Hash : e7d614cc0964b3f189d08392923c7c9d
+Source Model Date : 1523933526 (2018/04/16)
+
+Ported Model Name : res_captain_lao_v2sc
+Ported Model Hash : 173d0e772ec002f0cc13bf5968b6c31f
+Ported Model Date : 1752492212 (2025/07/14)

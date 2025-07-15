@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_militaryexo
+Source Model Hash : acf231e95c63c406b2e160ef486a2d0c
+Source Model Date : 1278411510 (2010/07/06)
+
+Ported Model Name : stal_militaryexo_v1sc
+Ported Model Hash : 0cebf65a6c0480e1bf79576f0115d917
+Ported Model Date : 1752492338 (2025/07/14)

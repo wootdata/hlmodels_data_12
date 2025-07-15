@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : masterchiefc
+Source Model Hash : f0465a946bb28d27422e4f39cd9aaa5f
+Source Model Date : 1597437940 (2020/08/14)
+
+Ported Model Name : masterchiefc_v1sc
+Ported Model Hash : fdb0c7277066e072fb7048bcc6e8ea39
+Ported Model Date : 1752491992 (2025/07/14)

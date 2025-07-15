@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hageri-man
+Source Model Hash : 49b06f135a9ade432b29a8c90acbc61e
+Source Model Date : 1268747533 (2010/03/16)
+
+Ported Model Name : hageri-man_v1sc
+Ported Model Hash : 4e0c1b58cc277ccb82f2cae5e5f66af6
+Ported Model Date : 1752491762 (2025/07/14)

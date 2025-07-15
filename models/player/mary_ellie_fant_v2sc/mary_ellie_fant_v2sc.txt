@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mary_ellie_fant_v2
+Source Model Hash : 0f0eea5f08ba1605188519de5e5ca3f5
+Source Model Date : 1583371476 (2020/03/04)
+
+Ported Model Name : mary_ellie_fant_v2sc
+Ported Model Hash : 05a40dc559e4e32c8e1b1ee3657ea3f8
+Ported Model Date : 1752491990 (2025/07/14)

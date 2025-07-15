@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : trollface
+Source Model Hash : 39d3f3f0c0e346a4755e15dcc3b3a18a
+Source Model Date : 1462729337 (2016/05/08)
+
+Ported Model Name : trollface_v1sc
+Ported Model Hash : a4af11f7e03f372e112bb941bfd3abf5
+Ported Model Date : 1752492459 (2025/07/14)

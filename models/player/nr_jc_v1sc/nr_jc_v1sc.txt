@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nr_jc
+Source Model Hash : 6bfce8d5dc9de8eb52af1ca2fb17e1c9
+Source Model Date : 1478652668 (2016/11/08)
+
+Ported Model Name : nr_jc_v1sc
+Ported Model Hash : c02fb18b4f12f5a7641a77a18fc28c3d
+Ported Model Date : 1752492101 (2025/07/14)

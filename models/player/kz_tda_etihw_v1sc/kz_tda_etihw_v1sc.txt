@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_tda_etihw
+Source Model Hash : 262e1ff17404a6b6d1f8e8a265a8bb9a
+Source Model Date : 1547487225 (2019/01/14)
+
+Ported Model Name : kz_tda_etihw_v1sc
+Ported Model Hash : 2ff1dd8ac3cebc60a6d9b53c3bdf1e7e
+Ported Model Date : 1752491933 (2025/07/14)

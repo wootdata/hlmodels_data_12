@@ -1,0 +1,16 @@
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bigboss2
+Source Model Hash : 9dc4377dbed14ba064e1bb3d279e6021
+Source Model Date : 1455469910 (2016/02/14)
+
+Ported Model Name : bigboss2_v1sc
+Ported Model Hash : bfe5a19728fef027eea51c5f6723205e
+Ported Model Date : 1752491428 (2025/07/14)

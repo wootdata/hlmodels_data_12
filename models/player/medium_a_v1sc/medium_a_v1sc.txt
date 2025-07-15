@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : medium_a
+Source Model Hash : 14b368d187ee4f6bddfcc94113df74f5
+Source Model Date : 1266243058 (2010/02/15)
+
+Ported Model Name : medium_a_v1sc
+Ported Model Hash : e9a4b4dd201ac7f830cb4b5adb66844d
+Ported Model Date : 1752491999 (2025/07/14)

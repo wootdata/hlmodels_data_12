@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kunie
+Source Model Hash : 27e270922fa2ed5bc023339a46d94475
+Source Model Date : 1263496850 (2010/01/14)
+
+Ported Model Name : kunie_v1sc
+Ported Model Hash : b80df9a27ba48bb67fb757aae5645464
+Ported Model Date : 1752491912 (2025/07/14)

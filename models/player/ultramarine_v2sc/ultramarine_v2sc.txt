@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ultramarine_v2
+Source Model Hash : c836dbdf8233f5de3123816a154b528b
+Source Model Date : 1583745741 (2020/03/09)
+
+Ported Model Name : ultramarine_v2sc
+Ported Model Hash : 07561464aa1981f63458268135a682df
+Ported Model Date : 1752492476 (2025/07/14)

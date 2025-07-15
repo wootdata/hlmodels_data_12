@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolipirate
+Source Model Hash : 8544c31a371e5d3f5c348ba2136aaf18
+Source Model Date : 1463152554 (2016/05/13)
+
+Ported Model Name : lolipirate_v1sc
+Ported Model Hash : 66ac109ad3120538ed15084ab952144e
+Ported Model Date : 1752491957 (2025/07/14)

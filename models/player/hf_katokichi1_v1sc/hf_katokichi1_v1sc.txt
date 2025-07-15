@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hf_katokichi1
+Source Model Hash : 89401c2b5d519a574a4b813db226606b
+Source Model Date : 1230317834 (2008/12/26)
+
+Ported Model Name : hf_katokichi1_v1sc
+Ported Model Hash : 834d9991a1be5e01983ee6a717dd686d
+Ported Model Date : 1752491791 (2025/07/14)

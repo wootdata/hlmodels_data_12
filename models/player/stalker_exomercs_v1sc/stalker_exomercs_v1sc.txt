@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_exomercs
+Source Model Hash : 21605b469a7517f8e5dff82a2f1955df
+Source Model Date : 1230403980 (2008/12/27)
+
+Ported Model Name : stalker_exomercs_v1sc
+Ported Model Hash : 5e9ee13e88b2249343b5fb3b31bc09f8
+Ported Model Date : 1752492331 (2025/07/14)

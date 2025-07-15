@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cs_bslm3
+Source Model Hash : 58d162562ce3ad5eabc2580c75cd2671
+Source Model Date : 1627624898 (2021/07/29)
+
+Ported Model Name : cs_bslm3_v1sc
+Ported Model Hash : 9345aad86802cf4633bbbadd154d8a04
+Ported Model Date : 1752491567 (2025/07/14)

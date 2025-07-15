@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hoe_namgrunt7
+Source Model Hash : 92b779c35b5d3242a2eafc27b02a1511
+Source Model Date : 1236542108 (2009/03/08)
+
+Ported Model Name : hoe_namgrunt7_v1sc
+Ported Model Hash : e9a0a2fabee6e1b2034e8456a843d09a
+Ported Model Date : 1752491812 (2025/07/14)

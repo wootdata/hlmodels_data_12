@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : oldsuit_tron1
+Source Model Hash : 42c995eccbf3cf32468e5e1918952d43
+Source Model Date : 1490943524 (2017/03/30)
+
+Ported Model Name : oldsuit_tron1_v1sc
+Ported Model Hash : d01bf2263bf5f2f583fd9217f2bd3934
+Ported Model Date : 1752492115 (2025/07/14)

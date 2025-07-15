@@ -1,0 +1,44 @@
+
+Yoda_README.txt			7:18 25OCT99
+
+This model was inspired by my wife, Tina.
+
+This model is based on the character Yoda, from Star Wars. 
+
+Created with Chumbalum Soft's Milkshape 3D and wouldn't have been possible without Scarecrow's tutorials from Coldfusion.
+Scarecrow is also resposible for keeping Yoda grounded. Yoda used to hover about a foot off of the ground. I owe you, man. 
+Thanks to Mark Inman for his help with a "short" character, too.
+
+#vertices:     346
+#triangles:    865
+#groups:      1
+#bones:       40
+#materials:   1
+sgroups:       1
+
+Yoda and his likeness are the creations and properties of Lucas Films.
+
+To use this model for Half-Life simply create a new folder named 'Yoda' (NO QUOTES!) in: 
+...\Half-Life\valve\models\player\...
+Un-zip the Yoda.mdl and .bmps into the new Yoda folder.
+
+Yoda is about half the size of a human and really hard to see or hit. 
+All of the weapon animations work great on this short guy except the rocket launcher, which seems to be imbedded in his little head. 
+
+k_vandorn
+kvandorn@kupperparker.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yoda_v2
+Source Model Hash : 82da9f9d533bc32e4dea70787dbf79a6
+Source Model Date : 1583306493 (2020/03/03)
+
+Ported Model Name : yoda_v2sc
+Ported Model Hash : 8a4c3a15c783631258f7052e1ce7988a
+Ported Model Date : 1752492521 (2025/07/14)

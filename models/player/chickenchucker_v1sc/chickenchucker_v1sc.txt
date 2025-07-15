@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chickenchucker
+Source Model Hash : 438a51817dba78945564e31f9577e972
+Source Model Date : 1268285820 (2010/03/10)
+
+Ported Model Name : chickenchucker_v1sc
+Ported Model Hash : 32fb3dc3fd171421e9a24c631f13fa7c
+Ported Model Date : 1752491470 (2025/07/14)

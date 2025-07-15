@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mk_shangtsung
+Source Model Hash : 6724a2114eee05fba5076949f46ecfc8
+Source Model Date : 1639176440 (2021/12/10)
+
+Ported Model Name : mk_shangtsung_v1sc
+Ported Model Hash : cd64fb848697c8053858b8c6ea49e91a
+Ported Model Date : 1752492033 (2025/07/14)

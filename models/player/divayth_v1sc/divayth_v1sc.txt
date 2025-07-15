@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : divayth
+Source Model Hash : d9dc6affd36d6e46acbbd690ddc43c52
+Source Model Date : 1639280622 (2021/12/11)
+
+Ported Model Name : divayth_v1sc
+Ported Model Hash : a49f1dec37640755468aede84921c286
+Ported Model Date : 1752491601 (2025/07/14)

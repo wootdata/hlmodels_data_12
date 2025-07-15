@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : quickfreeze
+Source Model Hash : be33e3d41dff1ba644a94a96a5153c5e
+Source Model Date : 1263042356 (2010/01/09)
+
+Ported Model Name : quickfreeze_v1sc
+Ported Model Hash : 069ad28d53fdca2a016eaa9b20050b41
+Ported Model Date : 1752492180 (2025/07/14)

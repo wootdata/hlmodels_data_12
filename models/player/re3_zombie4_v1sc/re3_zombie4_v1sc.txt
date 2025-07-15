@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re3_zombie4
+Source Model Hash : a0ffefeb0c8ee7a1a9e6c56797ab9ed0
+Source Model Date : 1236290100 (2009/03/05)
+
+Ported Model Name : re3_zombie4_v1sc
+Ported Model Hash : c1c513e43bb0e4b5543f6984b8c0a825
+Ported Model Date : 1752492192 (2025/07/14)

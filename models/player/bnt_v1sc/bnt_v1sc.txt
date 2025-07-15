@@ -1,0 +1,32 @@
+=======================================================================
+
+BIG NASTY TEETH!!!
+
+=======================================================================
+
+This is BIG NASTY TEETH! It was inspired by one line from Monty
+Python and The Holy Grail," WITH BIG NASTY TEETH!!!" So I have to say
+thanx to all those funny funny movies. Ok, now that I've done that
+PLAY DAMMIT!!!! Thank You.
+
+
+
+
+HEY!!! Don't like it? Send me some stuff to trash at SCUD868099@aol.com
+OR Visit the web site and stop complaining!!!!HALFLIFECITY.WEB.COM!!!!!
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bnt
+Source Model Hash : f860c18c6d71ce8f824ea124195abab8
+Source Model Date : 1590547886 (2020/05/26)
+
+Ported Model Name : bnt_v1sc
+Ported Model Hash : b4f4d53f10cab26b0a2699733f353980
+Ported Model Date : 1752491441 (2025/07/14)

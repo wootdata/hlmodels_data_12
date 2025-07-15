@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : urkel
+Source Model Hash : a3246c8d3836e2823206f208c5a14d07
+Source Model Date : 1591339714 (2020/06/04)
+
+Ported Model Name : urkel_v1sc
+Ported Model Hash : fd59e153d5572b295e3816ce0e2afb4b
+Ported Model Date : 1752492481 (2025/07/14)

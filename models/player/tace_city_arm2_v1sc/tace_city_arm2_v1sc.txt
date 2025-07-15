@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_e_city_armor2
+Source Model Hash : 7e1dfe875b86c741535d5ff411e13288
+Source Model Date : 1630952593 (2021/09/06)
+
+Ported Model Name : tace_city_arm2_v1sc
+Ported Model Hash : 7c182c68d96e88f427c7262b059030ae
+Ported Model Date : 1752492368 (2025/07/14)

@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : withered_foxy
+Source Model Hash : ddc21da1d6436f4fcf60897d28954bfe
+Source Model Date : 1442315654 (2015/09/15)
+
+Ported Model Name : withered_foxy_v1sc
+Ported Model Hash : 10a636404ea5cf1202ecf2cb420943b6
+Ported Model Date : 1752492510 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gfl_m4a1_dark
+Source Model Hash : d8c05e9c658e12a161d65cdf6e55fcaa
+Source Model Date : 1662190208 (2022/09/03)
+
+Ported Model Name : gfl_m4a1_dark_v1sc
+Ported Model Hash : c713203a2e671d49e774571bdfdb6b0e
+Ported Model Date : 1752491685 (2025/07/14)

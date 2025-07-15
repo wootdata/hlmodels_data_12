@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : castor
+Source Model Hash : ac4571af8f4b227299092be53257e8af
+Source Model Date : 1268230434 (2010/03/10)
+
+Ported Model Name : castor_v1sc
+Ported Model Hash : 8664b893c678363517eafa1499d09778
+Ported Model Date : 1752491464 (2025/07/14)

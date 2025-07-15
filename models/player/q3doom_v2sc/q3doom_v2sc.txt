@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q3doom_v2
+Source Model Hash : 642c881e659a79bfbddcc4688d8a70bc
+Source Model Date : 1583377943 (2020/03/04)
+
+Ported Model Name : q3doom_v2sc
+Ported Model Hash : 30345ccafde62af6c0c6d93313814e88
+Ported Model Date : 1752492178 (2025/07/14)

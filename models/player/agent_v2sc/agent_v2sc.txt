@@ -1,0 +1,24 @@
+Face & Glasses: Rysokue
+Body and Hair: Spastic Child
+Trench: Len and Spaids
+Hat: Major Clod
+Edits of the face and hair: ESF_Solidus
+Re-skinning and hacking (all the easy stuff):  ChaosX
+
+Converted by The Killer Snail
+got any problems email me at the_killer_snail@yahoo.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : agent_v2
+Source Model Hash : 7b8c244ea46c15cc97f8023439e87098
+Source Model Date : 1583746361 (2020/03/09)
+
+Ported Model Name : agent_v2sc
+Ported Model Hash : 0a899ffb060b6fe9ef6b0cf4366da2e2
+Ported Model Date : 1752491338 (2025/07/14)

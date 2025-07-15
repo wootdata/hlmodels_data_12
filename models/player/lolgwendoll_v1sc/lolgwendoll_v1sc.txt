@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolgwendoll
+Source Model Hash : 9511dc9582c25f3037401650541033f2
+Source Model Date : 1630871573 (2021/09/05)
+
+Ported Model Name : lolgwendoll_v1sc
+Ported Model Hash : d9c89104f78e5e5b1b1298e92f2ec9ae
+Ported Model Date : 1752491957 (2025/07/14)

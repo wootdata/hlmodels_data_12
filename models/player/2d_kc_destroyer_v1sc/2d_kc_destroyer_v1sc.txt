@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kc_destroyer
+Source Model Hash : 31fe3d1696125c9db831e64e4fd8de46
+Source Model Date : 1542662410 (2018/11/19)
+
+Ported Model Name : 2d_kc_destroyer_v1sc
+Ported Model Hash : f4ddc84b1970e0d7463c81c0f7a09ef3
+Ported Model Date : 1752491313 (2025/07/14)

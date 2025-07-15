@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shrub
+Source Model Hash : 55c7f7a40a7268b624edd7be04663cd0
+Source Model Date : 1269859337 (2010/03/29)
+
+Ported Model Name : shrub_v1sc
+Ported Model Hash : bd5987e7c1bbfa9ad255e36cde9aba30
+Ported Model Date : 1752492273 (2025/07/14)

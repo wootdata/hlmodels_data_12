@@ -1,0 +1,28 @@
+========================
+Stealth Box by Minuit
+========================
+
+
+
+Mesh: Minuit
+Texture: Google + Minuit
+Compile: Minuit
+
+
+
+Erm. That's really about it.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stealthbox
+Source Model Hash : f540e75fcebb46208c90d5e0a382ac29
+Source Model Date : 1375633168 (2013/08/04)
+
+Ported Model Name : stealthbox_v1sc
+Ported Model Hash : e76b5248adb25ca612a19e26d716302c
+Ported Model Date : 1752492344 (2025/07/14)

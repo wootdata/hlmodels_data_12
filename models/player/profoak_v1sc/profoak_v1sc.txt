@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : profoak
+Source Model Hash : 9182e434f125c6f67f00b4ae076c458d
+Source Model Date : 1579695606 (2020/01/22)
+
+Ported Model Name : profoak_v1sc
+Ported Model Hash : 85cb5a560bff0f9016dbe187f09d5bd1
+Ported Model Date : 1752492169 (2025/07/14)

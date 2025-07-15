@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : trump
+Source Model Hash : 1ccb351a12e90f331d3b3bf618b4cd9e
+Source Model Date : 1478177619 (2016/11/03)
+
+Ported Model Name : trump_v1sc
+Ported Model Hash : ec803675d029c9ccb5c6791af772a174
+Ported Model Date : 1752492460 (2025/07/14)

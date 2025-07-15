@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mona_helmet_m90
+Source Model Hash : 4b0b4198ecfa65bb2bbe6c03eac6e591
+Source Model Date : 1568714477 (2019/09/17)
+
+Ported Model Name : mona_helmet_m90_v1sc
+Ported Model Hash : 4c09f69879da8a2e95afe401bedcbc34
+Ported Model Date : 1752492040 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_cirno_bikini
+Source Model Hash : cea3ff040a1dfc8510ad872734791189
+Source Model Date : 1523046748 (2018/04/06)
+
+Ported Model Name : 2hu_cirno_bikini_v1sc
+Ported Model Hash : 73f89d7a79efceb03c0cde7ef0440b4e
+Ported Model Date : 1752492435 (2025/07/14)

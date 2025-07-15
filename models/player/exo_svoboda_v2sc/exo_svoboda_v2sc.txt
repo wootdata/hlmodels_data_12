@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : exo_svoboda_v2
+Source Model Hash : b43094d45030d0b174fe31f998fd937b
+Source Model Date : 1583832112 (2020/03/10)
+
+Ported Model Name : exo_svoboda_v2sc
+Ported Model Hash : 4f6597108963f6c9eade62f50b50d09b
+Ported Model Date : 1752491641 (2025/07/14)

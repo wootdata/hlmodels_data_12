@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_reimu4
+Source Model Hash : bc435af9f04f9a11e6585c322ced9142
+Source Model Date : 1715772312 (2024/05/15)
+
+Ported Model Name : touhou_reimu4_v1sc
+Ported Model Hash : b5026fcb076155d3a6d9e4b0e7e7fabf
+Ported Model Date : 1752492443 (2025/07/14)

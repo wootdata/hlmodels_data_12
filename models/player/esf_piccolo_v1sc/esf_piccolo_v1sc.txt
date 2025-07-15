@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : esf_piccolo
+Source Model Hash : b03c0fa2753f1a12b388b5cd04e796b2
+Source Model Date : 1426953923 (2015/03/21)
+
+Ported Model Name : esf_piccolo_v1sc
+Ported Model Hash : b1a7b263ffc42d67620f7e25ccf8ceb6
+Ported Model Date : 1752491637 (2025/07/14)

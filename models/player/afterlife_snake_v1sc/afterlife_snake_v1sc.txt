@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : afterlife_snake
+Source Model Hash : 99f5c7f042382e33fbf9b758dfe8af2c
+Source Model Date : 1483813339 (2017/01/07)
+
+Ported Model Name : afterlife_snake_v1sc
+Ported Model Hash : 14718dcfa7f37e2801bf020c1567053f
+Ported Model Date : 1752491336 (2025/07/14)

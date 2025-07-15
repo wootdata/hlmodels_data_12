@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mrgib
+Source Model Hash : 4772d34d92135f4b6ad31f0638f6df2e
+Source Model Date : 1429712086 (2015/04/22)
+
+Ported Model Name : mrgib_v1sc
+Ported Model Hash : fba4d39e9bd9ebf3307c77f4b768b36c
+Ported Model Date : 1752492045 (2025/07/14)

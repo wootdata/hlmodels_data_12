@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kofwhip
+Source Model Hash : 453d4749777de7dd75376c726995ac7b
+Source Model Date : 1615619116 (2021/03/12)
+
+Ported Model Name : kofwhip_v1sc
+Ported Model Hash : 2e33777e6fa7b00af1108f300b189435
+Ported Model Date : 1752491905 (2025/07/14)

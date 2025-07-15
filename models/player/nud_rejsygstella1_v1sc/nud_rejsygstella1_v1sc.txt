@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nud_rejsygstella_1
+Source Model Hash : 75e0ee3a1ddee0ab1d3eaa86a37b28cc
+Source Model Date : 1567291396 (2019/08/31)
+
+Ported Model Name : nud_rejsygstella1_v1sc
+Ported Model Hash : dc54c50a603c14701169cf349d656ea7
+Ported Model Date : 1752492105 (2025/07/14)

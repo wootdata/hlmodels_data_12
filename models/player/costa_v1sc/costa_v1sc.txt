@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : costa
+Source Model Hash : e77be3da4ec13d3a2f5fbc17f620bc66
+Source Model Date : 1256555054 (2009/10/26)
+
+Ported Model Name : costa_v1sc
+Ported Model Hash : c055f0d7f4b20da60c271346a677b36d
+Ported Model Date : 1752491531 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : samnite
+Source Model Hash : f81911505400e3d8c58eef14bfca58bd
+Source Model Date : 1269690544 (2010/03/27)
+
+Ported Model Name : samnite_v1sc
+Ported Model Hash : d28621ae2349b5a419c88142aa50f27c
+Ported Model Date : 1752492233 (2025/07/14)

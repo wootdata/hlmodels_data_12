@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mikofoxsuit
+Source Model Hash : 9420ef8f1778b38851086761904f8ab3
+Source Model Date : 1466428612 (2016/06/20)
+
+Ported Model Name : mikofoxsuit_v1sc
+Ported Model Hash : 821397cf4c0f3a0fc3e34694a2a717b4
+Ported Model Date : 1752492017 (2025/07/14)

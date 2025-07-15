@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : superseverian_v2
+Source Model Hash : 2816f4c9c61c2232da12640b903728b9
+Source Model Date : 1583317657 (2020/03/04)
+
+Ported Model Name : superseverian_v2sc
+Ported Model Hash : e52a694b4d6767c6c21bbeca23803882
+Ported Model Date : 1752492351 (2025/07/14)

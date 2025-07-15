@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gw_woodland_black_1
+Source Model Hash : f3e2f6bb00a5bd0765cfde6038c74659
+Source Model Date : 1493081561 (2017/04/24)
+
+Ported Model Name : gw_woodland_b1_v1sc
+Ported Model Hash : 4f6aafc0eec88ab9b92551f4c1ffde9e
+Ported Model Date : 1752491760 (2025/07/14)

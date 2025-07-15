@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dod_g_rc_nh
+Source Model Hash : fc59da69246545bf75135be372a757ce
+Source Model Date : 1626344247 (2021/07/15)
+
+Ported Model Name : dod_g_rc_nh_v1sc
+Ported Model Hash : 24fb74f3bf9b3036295b0925e5c4c55f
+Ported Model Date : 1752491616 (2025/07/14)

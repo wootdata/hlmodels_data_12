@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stars_cap
+Source Model Hash : e69d4db3227e6683afe1b6adff7d1089
+Source Model Date : 1269962699 (2010/03/30)
+
+Ported Model Name : stars_cap_v1sc
+Ported Model Hash : 56837890fb3dcb94538c7079e9e0850a
+Ported Model Date : 1752492343 (2025/07/14)

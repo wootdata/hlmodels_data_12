@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gw_real_white_2
+Source Model Hash : e50a72bcacba8b9b1807eff7060a1dcc
+Source Model Date : 1493253289 (2017/04/26)
+
+Ported Model Name : gw_real_white_2_v1sc
+Ported Model Hash : 300528151840376ad2675fc14a60bb5b
+Ported Model Date : 1752491760 (2025/07/14)

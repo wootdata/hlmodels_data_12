@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kz_megumi_v2
+Source Model Hash : a91366e522b1454fbb75e38484ab029d
+Source Model Date : 1542282730 (2018/11/15)
+
+Ported Model Name : 2d_kz_megumi_v2sc
+Ported Model Hash : 2d981e80722d552a75de69ad719ce6b3
+Ported Model Date : 1752491314 (2025/07/14)

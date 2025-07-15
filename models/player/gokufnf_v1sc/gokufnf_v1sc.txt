@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gokufnf
+Source Model Hash : be9316765fa57be03862530d255c4866
+Source Model Date : 1445358014 (2015/10/20)
+
+Ported Model Name : gokufnf_v1sc
+Ported Model Hash : b61b726b90022ae881d441d075b814f4
+Ported Model Date : 1752491732 (2025/07/14)

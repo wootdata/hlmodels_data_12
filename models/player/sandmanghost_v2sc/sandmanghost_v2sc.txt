@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sandmanghost_v2
+Source Model Hash : 04da58df5e6be4a5a75044961c7e2602
+Source Model Date : 1457125682 (2016/03/04)
+
+Ported Model Name : sandmanghost_v2sc
+Ported Model Hash : a5c5c8ebfa19d25ad4db3ab72cbad4bb
+Ported Model Date : 1752492234 (2025/07/14)

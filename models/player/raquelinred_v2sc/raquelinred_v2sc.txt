@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : raquelinred_v2
+Source Model Hash : a451012cef103eb78afa62bdbd1745c0
+Source Model Date : 1583378349 (2020/03/04)
+
+Ported Model Name : raquelinred_v2sc
+Ported Model Hash : 2cdc467f59f8713f91d11ad2c463d67e
+Ported Model Date : 1752492187 (2025/07/14)

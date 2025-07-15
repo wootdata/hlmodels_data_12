@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kfchopperharris
+Source Model Hash : f04b03d215879f009a0b1241306f72cf
+Source Model Date : 1313820086 (2011/08/19)
+
+Ported Model Name : kfchopperharris_v1sc
+Ported Model Hash : 32aba67ee508c74b3e542828ccaf566f
+Ported Model Date : 1752491881 (2025/07/14)

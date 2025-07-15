@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : reaper_v2
+Source Model Hash : d34bd3cdef738d19e181142385a43c1c
+Source Model Date : 1583378506 (2020/03/04)
+
+Ported Model Name : reaper_v2sc
+Ported Model Hash : a06ee464137eb75650465e3880028bb4
+Ported Model Date : 1752492193 (2025/07/14)

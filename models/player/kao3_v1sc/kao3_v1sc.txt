@@ -1,0 +1,29 @@
+------------------------------------------------------
+kao3 a.k.a Leisure Look  (from MapleStory)
+for Sven Co-op 5.0 player model
+
+meipuru meipuru pu-rupuru
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI Ver.2, EDGE
+Website: http://tepodonsc35.g1.xrea.com/
+
+02-11-2018 completed
+------------------------------------------------------
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kao3
+Source Model Hash : 4fc9b1e14c12cef899d1cd3f6de26fdb
+Source Model Date : 1541162521 (2018/11/02)
+
+Ported Model Name : kao3_v1sc
+Ported Model Hash : c4a955661c8910f978d1053293015973
+Ported Model Date : 1752491872 (2025/07/14)

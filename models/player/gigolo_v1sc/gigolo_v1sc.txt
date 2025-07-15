@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gigolo
+Source Model Hash : 6c6ee238cbc54492f81c760cd940c872
+Source Model Date : 1590738991 (2020/05/29)
+
+Ported Model Name : gigolo_v1sc
+Ported Model Hash : 4fa28e3215291017f0b7e79db0d763bf
+Ported Model Date : 1752491701 (2025/07/14)

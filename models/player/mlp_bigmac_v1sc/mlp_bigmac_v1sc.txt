@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_bigmac
+Source Model Hash : 9a5afd8fa10d83a0423cd72be63270a8
+Source Model Date : 1491602907 (2017/04/07)
+
+Ported Model Name : mlp_bigmac_v1sc
+Ported Model Hash : bbd4e8a0eb744ec1212926023bdde799
+Ported Model Date : 1752492035 (2025/07/14)

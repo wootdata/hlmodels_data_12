@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : britney
+Source Model Hash : a9c08d53657fab0650938ecb1738dd08
+Source Model Date : 1268071717 (2010/03/08)
+
+Ported Model Name : britney_v1sc
+Ported Model Hash : a79db3ddfb85e3ddc234928b1ff67f9c
+Ported Model Date : 1752491447 (2025/07/14)

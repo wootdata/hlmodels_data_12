@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : heavy_bears
+Source Model Hash : 7ccff2aa97b2d0205afb8a51f8d23d92
+Source Model Date : 1287395791 (2010/10/18)
+
+Ported Model Name : heavy_bears_v1sc
+Ported Model Hash : edc152cd066088faabb782732980c6aa
+Ported Model Date : 1752491779 (2025/07/14)

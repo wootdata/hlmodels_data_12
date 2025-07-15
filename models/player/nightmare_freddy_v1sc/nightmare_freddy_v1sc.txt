@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nightmare_freddy
+Source Model Hash : 2e2d3c62e91497a28d1dad2b341c9f18
+Source Model Date : 1446205756 (2015/10/30)
+
+Ported Model Name : nightmare_freddy_v1sc
+Ported Model Hash : e02e59172ab82a02545f62428ab6c621
+Ported Model Date : 1752492094 (2025/07/14)
