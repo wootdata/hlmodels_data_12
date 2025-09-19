@@ -1,0 +1,15 @@
+Skinner: SlimReapeR
+Skin Name: Ghost Face Killer
+Model Used: s8n (Modified punisher model. modified by SlimReapeR)
+
+
+Installation of Plugin
+
+Create a folder called gfk in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
+

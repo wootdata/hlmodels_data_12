@@ -1,0 +1,16 @@
+Skinner/modeler: SlimReapeR
+Skin Name: Nova
+Model Used: Clan_EOD (base model:Punisher)
+
+
+
+
+Installation of Plugin
+
+Create a folder called nova  in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+

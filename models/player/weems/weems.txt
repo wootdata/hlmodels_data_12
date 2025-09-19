@@ -1,0 +1,24 @@
+The Weems Skin by Bruce DeBoard 
+=============================================
+Installation : Unzip the contents of this file into your HalfLife/Valve/Models/Player/weems folder. Then simply select the skin from the Multiplayer Customization option within the game.
+=============================================
+=============================================
+Skin Name        : Weems
+Folder           : /weems
+Author           : Bruce DeBoard
+E-Mail           : badebo00@pop.uky.edu	
+Website          : http://www.pa.uky.edu/~deboard
+Editors used     : Paint Shop Pro
+Additonal Thanks : Valve for making Half-Life
+==============================================
+Notes            : This is a skin of a friend of mine.  I tried to make skins for myself and several friends,
+		   but this one is the only one I made that has turned out decent so far. We all liked it so much 
+		   that most of us use it now.  I have found that it is a little dark, but not too bad.  The biggest
+		   problem I have is once you know someone is using it and you are looking for it, it seems
+		   that I keep mistaking ammo for the person.  So while I am tearing up a case of ammo with
+		   the rpg, the real player sneaks up behind me and whacks me with a crowbar.  
+==============================================
+
+***NB*** 	If this skin is to be used on a CD or other form of Multimedia Distribution then any credit given goes to Bruce DeBoard.  Also, please ask before including it on any such distributive method.  All I ask is a free
+copy of the CD in exchange.
+-badebo00@pop.uky.edu

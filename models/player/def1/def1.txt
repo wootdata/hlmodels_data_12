@@ -1,0 +1,46 @@
+Skinner: SlimReapeR
+Skin Name: Def1
+Model Used: AVAC by DEF_ONE
+
+This skin was done after reading the Forum at coldfusion. Def_one 
+(the models creator) put a request for some one to reskin his AVAC
+model. I thought i'd oblige his request and knoced this up.
+
+Installation of Plugin
+
+Create a folder called def1 in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+..................................................................
+-avac-
+
+by:  def_one  (Phil Mayfield)
+     alien_51@hotmail.com
+
+
+-info-
+
+Triangles - 598
+Vertices - 346
+Normals - 384
+Custom Animations - 5
+Date of Completion - 04/05/2000
+Skin 256x256x1
+
+
+avac is my attempt at an anime style toy robot looking thing.  
+
+
+
+Thanks to OmegaLE for helping me out, not neccisarily on this model, but in general.
+
+
+Have fun with it!
+
+def_one
+
+-eof-
+
+

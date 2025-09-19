@@ -1,0 +1,13 @@
+Vampire Skin by Xterminator - Oliver Cross
+
+Name: Vampire
+Author: Oliver Cross
+Email: oli@crosses.easynet.co.uk
+Webpage: zap.to/gamezunlimited
+
+Decription: This is a skin I thought could be cool after actually working out how to make the damn things!  It is my first attempt at a skin, I hope this doesn't show too much.  To install it, put the Vampire.MDL file and the Vampire.BMP file into a folder called \Half-life\Valve\Models\Player\Vampire.  Now you can select the model from the Customize menu.
+
+Tools used: Paint Shop Pro 6, Mdl Viewer 2.1, Studio Model
+Build Time: About 3 1/2 weeks with a HUGE break in between the face and the suit caused by a change of computers.
+
+Copyright information: Thankyou for downloading!  Please feel free too put this model on your website AS LONG AS this text file is included COMPLETLY UNABRIDGED OR IN ANY WAY ALTERED.  If you want to put it on a CD or use it for any commercial reason, please e-mail me on oli@crosses.easynet.co.uk and get permission :)
