@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bulleta
+Source Model Hash : 9cc9869e2015646dc86f4e73a5b3a594
+Source Model Date : 1775524315 (2026/04/06)
+
+Ported Model Name : bulleta_v1sc
+Ported Model Hash : dad5ba6ef2cf371947b2663619903025
+Ported Model Date : 1780823017 (2026/06/07)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : renamon_cc
+Source Model Hash : aeaace6c029c5f35d40046bf3c964a4c
+Source Model Date : 1779857013 (2026/05/26)
+
+Ported Model Name : renamon_cc_v1sc
+Ported Model Hash : c1767e1c20cbbc0c8c84bc874fe2f715
+Ported Model Date : 1780823046 (2026/06/07)
